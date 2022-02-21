@@ -18,7 +18,7 @@
           'security/ir.model.access.csv',
           'views/checkpoint_views.xml',
           'views/connector_menu.xml',
-          'views/res_partner_views.xml',
+#          'views/res_partner_views.xml',
           ],
  'installable': True,
  }
